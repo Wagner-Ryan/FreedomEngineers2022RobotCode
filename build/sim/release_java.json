@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project RapidReact2022)",
+    "extensions": [
+      {
+        "name": "Sim DriverStation",
+        "libName": "/Users/ryanwagner/Desktop/Freedom Engineers/RapidReact2022/build/jni/release/libhalsim_ds_socket.dylib",
+        "defaultEnabled": false
+      },
+      {
+        "name": "Sim GUI",
+        "libName": "/Users/ryanwagner/Desktop/Freedom Engineers/RapidReact2022/build/jni/release/libhalsim_gui.dylib",
+        "defaultEnabled": true
+      }
+    ],
+    "environment": {},
+    "libraryDir": "/Users/ryanwagner/Desktop/Freedom Engineers/RapidReact2022/build/jni/release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
